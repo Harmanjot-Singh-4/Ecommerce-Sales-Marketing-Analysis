@@ -32,10 +32,12 @@ I engineered a unified data layer by performing complex relational joins between
 2. Marketing Spend Reconciliation & ROAS
 The core of this phase involved joining marketing spend with sales activity via a date-bridge logic. I calculated the Return on Ad Spend (ROAS) for every category, identifying that Nest-USA led the pack with a high ROAS of 1.24.
 
-3. Customer Segmentation & Behavior
+![Highest ROAS by Product Category](Ecommerce-Sales-Marketing-Analysis/Pictures/roas_product_category.png)
+
+4. Customer Segmentation & Behavior
 I leveraged the customersdata table to segment users into Loyal, Regular, and New groups. By analyzing their average spending patterns in SQL, I established the baseline needed for targeted marketing budget allocation.
 
-4. Sales Volume vs. Efficiency Discovery
+5. Sales Volume vs. Efficiency Discovery
 Through cross-functional analysis, I discovered that while the Apparel category drives the highest volume of sales (18,126 transactions), it yields a disproportionately low Total ROAS of 0.26. This insight highlights a critical need for marketing budget optimization or pricing strategy adjustments in high-volume segments.
 
 💡 Key SQL Insights
