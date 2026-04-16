@@ -27,7 +27,7 @@ The project follows a modular structure to ensure maintainability and clarity:
 1. Data Cleaning & Revenue Engineering
 I engineered a unified data layer by performing complex relational joins between the online_sales, marketing_spend, tax_amount, and discount_coupon tables. This integration allowed for a high-precision calculation of Net Revenue, moving beyond surface-level sales to account for GST impacts and discount variables. By bridging transactional data with daily marketing expenditures, I successfully calculated critical KPIs including Total ROAS and distinguished between Online and Offline ROAS to provide a granular view of channel efficiency.
 
-![Metrics](Net revenue, Total marketing spend, Total ROAS online and offline ROAS.png)
+![Net Revenue and ROAS Analysis](Pictures/Net%20revenue,%20Total%20marketing%20spend,%20Total%20ROAS%20online%20and%20offline%20ROAS.png)
 
 3. Marketing Spend Reconciliation & ROAS
 The core of this phase involved joining marketing spend with sales activity via a date-bridge logic. I calculated the Return on Ad Spend (ROAS) for every category, identifying that Nest-USA led the pack with a high ROAS of 1.24.
