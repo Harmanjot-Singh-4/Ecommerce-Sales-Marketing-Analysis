@@ -42,6 +42,8 @@ I leveraged the customersdata table to segment users into Loyal, Regular, and Ne
 6. Sales Volume vs. Efficiency Discovery
 Through cross-functional analysis, I discovered that while the Apparel category drives the highest volume of sales (18,126 transactions), it yields a disproportionately low Total ROAS of 0.26. This insight highlights a critical need for marketing budget optimization or pricing strategy adjustments in high-volume segments.
 
+![Highest Sale Product Category](Ecommerce-Sales-Marketing-Analysis/Pictures/most_sale_product_category.png)
+
 💡 Key SQL Insights
 -------------------------------
 Top Efficiency: Nest-USA is the most efficient category for ad spend (1.24 ROAS).
