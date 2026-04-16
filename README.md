@@ -27,13 +27,15 @@ The project follows a modular structure to ensure maintainability and clarity:
 1. Data Cleaning & Revenue Engineering
 I engineered a unified data layer by performing complex relational joins between the online_sales, marketing_spend, tax_amount, and discount_coupon tables. This integration allowed for a high-precision calculation of Net Revenue, moving beyond surface-level sales to account for GST impacts and discount variables. By bridging transactional data with daily marketing expenditures, I successfully calculated critical KPIs including Total ROAS and distinguished between Online and Offline ROAS to provide a granular view of channel efficiency.
 
-3. Marketing Spend Reconciliation & ROAS
+![Net Revenue and ROAS Analysis](Pictures/net_revenue_roas.png)
+
+2. Marketing Spend Reconciliation & ROAS
 The core of this phase involved joining marketing spend with sales activity via a date-bridge logic. I calculated the Return on Ad Spend (ROAS) for every category, identifying that Nest-USA led the pack with a high ROAS of 1.24.
 
-4. Customer Segmentation & Behavior
+3. Customer Segmentation & Behavior
 I leveraged the customersdata table to segment users into Loyal, Regular, and New groups. By analyzing their average spending patterns in SQL, I established the baseline needed for targeted marketing budget allocation.
 
-5. Sales Volume vs. Efficiency Discovery
+4. Sales Volume vs. Efficiency Discovery
 Through cross-functional analysis, I discovered that while the Apparel category drives the highest volume of sales (18,126 transactions), it yields a disproportionately low Total ROAS of 0.26. This insight highlights a critical need for marketing budget optimization or pricing strategy adjustments in high-volume segments.
 
 💡 Key SQL Insights
