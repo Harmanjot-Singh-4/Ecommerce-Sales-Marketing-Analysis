@@ -70,6 +70,8 @@ I developed a Star Schema within Power BI to ensure high performance and scalabi
    
 I utilized DAX to create dynamic measures that adapt to user filters. A key highlight is the Net Revenue measure, which uses SUMX, LOOKUPVALUE, and RELATED to calculate profitability by factoring in dynamic discount statuses and GST rates on a per-row basis.
 
+![dax](Ecommerce-Sales-Marketing-Analysis/Pictures/dax.png)
+
 3. Executive Growth Dashboard:
    
 The final dashboard provides an at-a-glance view of the business health. It features:
@@ -79,6 +81,9 @@ KPI Tiles: Total Net Revenue ($3.88M), Ad Spend, and overall ROAS.
 Trend Analysis: Monthly performance tracking.
 
 Competitive Benchmarking: Side-by-side comparison of ROAS and Sales volume across all product categories.
+
+
+![dashboard](Ecommerce-Sales-Marketing-Analysis/Pictures/data_modeling.png)
 
 💡 Final Project Conclusions:
 ---------------------------------------------------
