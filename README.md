@@ -32,7 +32,7 @@ The project follows a modular structure to ensure maintainability and clarity:
 
 🧠 Phase 1: The SQL Analytics Engine
 ----------------------------------------------
-1. Data Cleaning & Revenue Engineering:
+1. **Data Cleaning & Revenue Engineering:**
    
 I engineered a unified data layer by performing complex relational joins between the online_sales, marketing_spend, tax_amount, and discount_coupon tables. This integration allowed for a high-precision calculation of Net Revenue, moving beyond surface-level sales to account for GST impacts and discount variables. By bridging transactional data with daily marketing expenditures, I successfully calculated critical KPIs including Total ROAS and distinguished between Online and Offline ROAS to provide a granular view of channel efficiency.
 
