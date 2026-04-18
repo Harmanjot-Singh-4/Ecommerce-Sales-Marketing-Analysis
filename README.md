@@ -83,7 +83,7 @@ Trend Analysis: Monthly performance tracking.
 Competitive Benchmarking: Side-by-side comparison of ROAS and Sales volume across all product categories.
 
 
-![dashboard](Ecommerce-Sales-Marketing-Analysis/Pictures/data_modeling.png)
+![dashboard](Ecommerce-Sales-Marketing-Analysis/Pictures/dashboard.png)
 
 💡 Final Project Conclusions:
 ---------------------------------------------------
