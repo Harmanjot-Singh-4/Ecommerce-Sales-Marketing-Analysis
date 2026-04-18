@@ -51,3 +51,7 @@ Top Efficiency: Nest-USA is the most efficient category for ad spend (1.24 ROAS)
 Volume vs. Value: While Apparel shows high sales volume, its ROAS (0.26) indicates an opportunity for cost optimization.
 
 Geographic Hubs: California is the primary customer hub, followed by Illinois and New York.
+
+
+🛠️ Phase 2: The DASHBBOARD MAKING PHASE
+----------------------------------------------
