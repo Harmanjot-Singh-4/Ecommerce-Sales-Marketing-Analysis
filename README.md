@@ -18,7 +18,7 @@ Data Visualization: Power BI Desktop
 
 Analytics Logic: DAX (Data Analysis Expressions)
 
-🏗️ Project Architecture
+🖥️ Project Architecture
 ------------------------------------
 The project follows a modular structure to ensure maintainability and clarity:
 
@@ -30,7 +30,7 @@ The project follows a modular structure to ensure maintainability and clarity:
 
 /dashboard: include power bi file of dashboard.
 
-🏗️ Phase 1: The SQL Analytics Engine
+🧠 Phase 1: The SQL Analytics Engine
 ----------------------------------------------
 1. Data Cleaning & Revenue Engineering:
    
@@ -57,7 +57,7 @@ Through cross-functional analysis, I discovered that while the Apparel category 
 ![Highest Sale Product Category](Ecommerce-Sales-Marketing-Analysis/Pictures/most_sale_product_category.png)
 
 
-🛠️ Phase 2: Power BI Intelligence & Dashboarding
+📈 Phase 2: Power BI Intelligence & Dashboarding
 ----------------------------------------------
 
 1. Advanced Data Modeling:
