@@ -64,6 +64,8 @@ Through cross-functional analysis, I discovered that while the Apparel category 
    
 I developed a Star Schema within Power BI to ensure high performance and scalability. I established relationships between fact tables (Sales, Marketing) and dimension tables (Calendar, Customers, Tax) to allow for seamless cross-filtering.
 
+![data modeling](Ecommerce-Sales-Marketing-Analysis/Pictures/data_modeling.png)
+
 2. DAX Engineering:
    
 I utilized DAX to create dynamic measures that adapt to user filters. A key highlight is the Net Revenue measure, which uses SUMX, LOOKUPVALUE, and RELATED to calculate profitability by factoring in dynamic discount statuses and GST rates on a per-row basis.
